@@ -7,3 +7,6 @@ Changes from remote repository
 New Changes!
 
 Changes from Sergey
+
+changes from Anait
+changes2 from Anait
